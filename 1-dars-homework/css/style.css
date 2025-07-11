@@ -42,6 +42,11 @@ ul {
     padding-bottom: 24px;
 }
 
+.header-content {
+    display: flex;
+
+}
+
 .header-link {
     font-family: "Open sans", "sans-serif";
     font-size: 14px;
@@ -50,6 +55,10 @@ ul {
     text-decoration: none;
     list-style: none;
     color: #222222;
+}
+
+.header-button {
+    display: inline-block;
 }
 
 
