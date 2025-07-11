@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
-* {
+*{
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
@@ -52,6 +52,10 @@ ul {
     color: #222222;
 }
 
+.header-button {
+    
+}
+
 
 
 /* Main */
@@ -64,8 +68,18 @@ ul {
     color: #FFFFFF;
 }
 
-.hero-content {
-    font-family: "Open sans Condensed, sans-serif ";
+.hero-title {
+    font-family: "Open sans, sans-serif";
+    font-size: 36px;
+    line-height: 120%;
+    letter-spacing: 0px;
+}
+
+.hero-text {
+    font-family: "Open sans, sans-serif";
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0px;
 }
 
 
