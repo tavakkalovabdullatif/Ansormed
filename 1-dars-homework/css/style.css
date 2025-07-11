@@ -47,6 +47,12 @@ ul {
 
 }
 
+.header-links {
+    display: flex;
+    gap: 32px;
+}
+
+
 .header-link {
     font-family: "Open sans", "sans-serif";
     font-size: 14px;
