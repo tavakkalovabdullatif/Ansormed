@@ -84,11 +84,14 @@ ul {
 
 /* Hero */
 .hero {
-    display: flex;
     padding-top: 120px;
     padding-bottom: 120px;
     color: #FFFFFF;
     background-color: #0EB4C1;
+}
+
+.hero-content {
+    display: flex;
 }
 
 .hero-title {
@@ -109,8 +112,14 @@ ul {
 }
 
 .hero-button {
-    display: inline-blocks;
+    position: relative;
     padding-bottom: 120px;
+}
+
+.hero-img {
+    max-width: 504px;
+    width:100%;
+    height: auto;
 }
 
 
