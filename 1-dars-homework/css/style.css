@@ -213,7 +213,8 @@ ul {
 .cta {
     background-color: #0EB4C1;
     padding-bottom: 64px;
-justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cta-title {
@@ -229,6 +230,22 @@ justify-content: center;
 .footer {
     padding-bottom: 24px;
     padding-top: 24px;
+    background-color: #222222;
+}
+
+.footer-content {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.footer-logo {
+    color: #FFFFFF;
+}
+
+.footer-links {
+    display: flex;
+    gap: 32px;
 }
 
 .footer-link {
@@ -238,7 +255,7 @@ justify-content: center;
     letter-spacing: 2px;
     text-decoration: none;
     list-style: none;
-    color: #222222;
+    color: #FFFFFF;
 }
 
 
