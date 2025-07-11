@@ -112,7 +112,7 @@ ul {
 }
 
 .hero-button {
-    position: relative;
+    display: inline-block;
     padding-bottom: 120px;
 }
 
