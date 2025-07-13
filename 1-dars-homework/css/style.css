@@ -141,7 +141,7 @@ ul {
 }
 
 .section-1-title {
-    padding-bottom: ;
+    padding-bottom: 24px;
 }
 
 .section-1-text {
@@ -158,6 +158,10 @@ ul {
 .section-2-content {
     display: flex;
     align-items: center;
+}
+
+.section-2-title {
+    padding-bottom: 24px;
 }
 
 .section-2-text {
@@ -177,6 +181,11 @@ ul {
     align-items: center;
 }
 
+.section-3-title {
+    padding-bottom: 24px;
+}
+
+
 .section-3-text {
     width: 600px;
     padding-left: 64px;
@@ -194,6 +203,11 @@ ul {
     display: flex;
     align-items: center;
 }
+
+.section-4-title {
+    padding-bottom: 24px;
+}
+
 
 .section-4-text {
     width: 600px;
