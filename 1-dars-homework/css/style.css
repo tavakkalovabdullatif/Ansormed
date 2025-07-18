@@ -134,6 +134,8 @@ ul {
     align-self: center;
     font-size: 36px;
     line-height: 120%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Section-1 */
@@ -230,6 +232,8 @@ ul {
    font-size: 15px;
    line-height: 150%;
    letter-spacing: 2px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 
@@ -238,6 +242,8 @@ ul {
 .cta {
     background-color: #0EB4C1;
     padding-bottom: 64px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
